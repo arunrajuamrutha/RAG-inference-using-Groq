@@ -67,4 +67,3 @@ This project is for educational purposes only. The pre-trained LLM might contain
 
 ---
 
-Feel free to adjust or expand any section based on additional details or instructions you'd like to provide!
